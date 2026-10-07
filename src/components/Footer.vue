@@ -15,9 +15,10 @@ const year = new Date().getFullYear()
             Address
           </h3>
           <p class="text-sm leading-relaxed text-gray-200">
-            Suite 4, 711 Cranbrook Road,<br />
-            Gants Hill, Ilford<br />
-            IG2 6RJ
+            1st Floor, 149 Beaconsfield Street<br />
+            Newcastle upon Tyne<br />
+            NE4 5JQ<br />
+            United Kingdom
           </p>
         </div>
 
@@ -38,9 +39,9 @@ const year = new Date().getFullYear()
             Phone
           </h3>
           <ul class="space-y-1 text-sm text-gray-200">
-            <li>Landline: 020 7247 6015</li>
-            <li>Mobile: 079 5711 4379</li>
-            <li>Fax: 020 7247 4688</li>
+            <li>Landline: 0191 272 5197</li>
+            <li>Mobile: 075 1158 4392</li>
+            <li>Fax: 0191 272 0317</li>
           </ul>
         </div>
 
@@ -51,15 +52,11 @@ const year = new Date().getFullYear()
           </h3>
           <ul class="space-y-1 text-sm text-gray-200">
             <li>
-              <a href="mailto:mail@nesolicitors.co.uk" class="hover:text-white">
-                mail@nesolicitors.co.uk
+              <a href="mailto:jalal.uddin@nesolicitors.co.uk" class="break-all hover:text-white">
+                jalal.uddin@nesolicitors.co.uk
               </a>
             </li>
-            <li>
-              <a href="mailto:info@nesolicitors.co.uk" class="hover:text-white">
-                info@nesolicitors.co.uk
-              </a>
-            </li>
+            <li>www.nesolicitors.co.uk</li>
           </ul>
         </div>
       </div>
@@ -70,7 +67,7 @@ const year = new Date().getFullYear()
         class="mx-auto flex max-w-7xl flex-col items-center gap-4 px-4 py-6 text-center sm:flex-row sm:justify-between sm:text-left lg:px-8"
       >
         <div class="text-xs leading-relaxed text-gray-300">
-          <p>&copy; {{ year }} NESOLICITORS Legal Limited t/a NESOLICITORS.</p>
+          <p>&copy; {{ year }} North East Solicitors.</p>
           <p class="mt-1 flex items-center justify-center gap-1.5 sm:justify-start">
             <ShieldCheck :size="14" class="shrink-0" aria-hidden="true" />
             Authorised and regulated by the Solicitors Regulation Authority under SRA ID: 832104

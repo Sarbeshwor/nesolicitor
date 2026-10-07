@@ -7,7 +7,7 @@ const details = [
   {
     icon: MapPin,
     title: 'Address',
-    lines: ['Suite 4, 711 Cranbrook Road,', 'Gants Hill, Ilford, IG2 6RJ'],
+    lines: ['1st Floor, 149 Beaconsfield Street,', 'Newcastle upon Tyne, NE4 5JQ', 'United Kingdom'],
   },
   {
     icon: Clock,
@@ -17,12 +17,12 @@ const details = [
   {
     icon: Phone,
     title: 'Phone',
-    lines: ['020 7247 6015', '079 5711 4379'],
+    lines: ['Landline: 0191 272 5197', 'Mobile: 075 1158 4392', 'Fax: 0191 272 0317'],
   },
   {
     icon: Mail,
     title: 'Email',
-    lines: ['mail@nesolicitors.co.uk'],
+    lines: ['jalal.uddin@nesolicitors.co.uk', 'www.nesolicitors.co.uk'],
   },
 ]
 </script>

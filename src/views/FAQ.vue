@@ -22,7 +22,7 @@ const faqs = [
   {
     question: 'Are you regulated?',
     answer:
-      'Yes. NESOLICITORS Legal Limited t/a NESOLICITORS is authorised and regulated by the Solicitors Regulation Authority under SRA ID: 832104.',
+      'Yes. North East Solicitors is authorised and regulated by the Solicitors Regulation Authority under SRA ID: 832104.',
   },
 ]
 

@@ -10,7 +10,7 @@ import { MapPin, Clock, Mail, Phone } from 'lucide-vue-next'
       <div class="flex flex-col gap-1.5 sm:flex-row sm:flex-wrap sm:items-center sm:gap-5">
         <span class="flex items-center gap-1.5">
           <MapPin :size="14" class="shrink-0" aria-hidden="true" />
-          Suite 4, 711 Cranbrook Road, Gants Hill, Ilford IG2 6RJ
+          1st Floor, 149 Beaconsfield Street, Newcastle upon Tyne NE4 5JQ
         </span>
         <span class="flex items-center gap-1.5">
           <Clock :size="14" class="shrink-0" aria-hidden="true" />
@@ -19,18 +19,18 @@ import { MapPin, Clock, Mail, Phone } from 'lucide-vue-next'
       </div>
       <div class="flex flex-col gap-1.5 sm:flex-row sm:flex-wrap sm:items-center sm:gap-5">
         <a
-          href="mailto:mail@nesolicitors.co.uk"
+          href="mailto:jalal.uddin@nesolicitors.co.uk"
           class="flex items-center gap-1.5 transition-colors hover:text-white/80"
         >
           <Mail :size="14" class="shrink-0" aria-hidden="true" />
-          mail@nesolicitors.co.uk
+          jalal.uddin@nesolicitors.co.uk
         </a>
         <a
-          href="tel:02072476015"
+          href="tel:01912725197"
           class="flex items-center gap-1.5 transition-colors hover:text-white/80"
         >
           <Phone :size="14" class="shrink-0" aria-hidden="true" />
-          020 7247 6015
+          0191 272 5197
         </a>
       </div>
     </div>

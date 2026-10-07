@@ -8,7 +8,7 @@ const points = [
   {
     icon: ShieldCheck,
     title: 'SRA Authorised & Regulated',
-    text: 'NESOLICITORS Legal Limited t/a NESOLICITORS is authorised and regulated by the Solicitors Regulation Authority under SRA ID: 832104.',
+    text: 'North East Solicitors is authorised and regulated by the Solicitors Regulation Authority under SRA ID: 832104.',
   },
   {
     icon: Users2,
